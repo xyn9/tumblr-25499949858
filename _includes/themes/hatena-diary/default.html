@@ -22,8 +22,8 @@
 
 <div class="adminmenu">
   <ul class="nav">
-    <li><a href="{{ BASE_PATH }}/">Top</a></li>
-    {% if site.author.github %}<li><a href="http://github.com/{{ site.author.github }}{{ BASE_PATH }}">github</a></li>{% endif %}
+    <li><a href="/">Top</a></li>
+    {% if site.author.github %}<li><a href="http://github.com/{{ site.author.github }}">github</a></li>{% endif %}
     {% assign pages_list = site.pages %}
     {% assign group = 'navigation' %}
     {% include JB/pages_list %}
