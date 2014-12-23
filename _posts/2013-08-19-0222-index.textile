@@ -4,6 +4,7 @@ date: 2013-08-19 02:22
 description: http://xyn9.tumblr.com/post/25499949858 
 group: note 
 layout: nil
+link: index.html#2013-08-19-0222
 mdate: 2013-08-19 02:22
 mdescription: “関連・その他”の項目にリンク追加 
 tags: ["wiki", "#25499949858"] 

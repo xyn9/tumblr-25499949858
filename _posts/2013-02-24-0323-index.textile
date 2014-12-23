@@ -4,6 +4,7 @@ date: 2013-02-24 03:23
 description: http://xyn9.tumblr.com/post/25499949858 
 group: note 
 layout: nil
+link: index.html#2013-02-24-0323
 mdate: 2013-02-24 03:23 
 mdescription: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 
