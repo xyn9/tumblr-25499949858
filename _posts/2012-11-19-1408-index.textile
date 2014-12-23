@@ -1,15 +1,10 @@
 ---
 category: note 
 date: 2012-11-19 14:08 
-description: http://xyn9.tumblr.com/post/25499949858 
 group: note 
 layout: nil
 link: index.html#2012-11-19-1408
 mdate: 2012-11-19 14:08 
-mdescription: 沖縄レイプ事件関連ニコ動コメントへのリンク追加 
+title: 沖縄レイプ事件関連ニコ動コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 
-title: メモ片#25499949858 
 ---
- 
-{{ page.mdescription }}
- 

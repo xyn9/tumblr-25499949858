@@ -20,7 +20,7 @@ Usage:
 <dl compact>
 {% for post in posts_collate  %}
     <dt><span>{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a></dt>
-    {% if post.content %}<dd>{{ post.content }}</dd>{% endif %}
+    {% if post.description %}<dd>{{ post.description }}</dd>{% endif %}
 {% endfor %}
 </dl>
 {% assign posts_collate = nil %}
