@@ -3,7 +3,7 @@ category: note
 date: 2014-04-04 19:52:13 
 group: note 
 layout: nil
-link: index.html#2014-04-04-1952
+link: #2014-04-04-1952
 mdate: 2014-04-04 19:52:13 
 title: “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 

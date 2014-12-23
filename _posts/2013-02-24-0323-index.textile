@@ -3,7 +3,7 @@ category: note
 date: 2013-02-24 03:23 
 group: note 
 layout: nil
-link: index.html#2013-02-24-0323
+link: #2013-02-24-0323
 mdate: 2013-02-24 03:23 
 title: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加 
 tags: ["wiki", "#25499949858"] 
