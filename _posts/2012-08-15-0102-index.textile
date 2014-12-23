@@ -1,0 +1,11 @@
+---
+category: index 
+date: 2012-08-15 01:02:42 
+description: なんか台湾とか一部外国人の可能性も視野に入れたくなってきた… 
+group: history
+layout: nil
+link: ./#2012-08-15-0102
+mdate: 2012-08-15 01:02:42 
+style: diary 
+title: 米軍基地関連の項目追加 
+---
