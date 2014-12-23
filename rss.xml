@@ -15,6 +15,7 @@ title : RSS Feed
  <ttl>1800</ttl>
 
  {% for post in site.posts %}
+    {% if post.group == "history" and post.title != null %}
    <item>
    <title>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</title>
    <link>{{ site.production_url }}{% if post.link %}/{{ post.link }}{% else %}{{ post.url }}{% endif %}</link>
@@ -24,6 +25,7 @@ title : RSS Feed
    <guid>{{ post.id }}@{{ post.date | date:"%c" }}</guid>
    <author>{{ site.author.name }}</author>
    </item>
+    {% endif %}
  {% endfor %}
 </channel>
 </rss>

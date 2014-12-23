@@ -1,12 +1,11 @@
 ---
-category: note 
+category: index 
 date: 2014-12-22 08:47:00 
 description:  
-group: note 
+group: history
 layout: nil
 link: ./#2014-12-22-0847
 mdate: 2014-12-22 08:47:00 
 style: diary 
-tags: ["wiki", "#25499949858"] 
 title: “関連・その他”の項目に関連リンク追加 
 ---

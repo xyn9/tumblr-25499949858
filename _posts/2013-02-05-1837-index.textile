@@ -1,7 +1,7 @@
 ---
-category: note 
+category: index
 date: 2013-02-05 18:37 
-group: note 
+group: history
 layout: nil
 link: ./#2013-02-05-1837
 mdate: 2013-02-05 18:37 

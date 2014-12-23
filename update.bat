@@ -43,6 +43,7 @@ set _%~n0_H#link=!_%~n0_H#link:^\index^.html=^.^\!
 set _%~n0_H#link=!_%~n0_H#link:^\=^/!
 set _%~n0_H#link=!_%~n0_H#link!^#!_%~n0_DATE!
 :
+set _%~n0_H#group=history
 set _%~n0_H#layout=nil
 :
 @echo --->"!_%~n0_DEST!"

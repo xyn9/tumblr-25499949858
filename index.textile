@@ -1,10 +1,9 @@
 ---
 layout: page
 style: diary
-group: note
-category: note
+group: 
+category: index
 description: http://xyn9.tumblr.com/post/25499949858
-tags: ["wiki", "#25499949858"]
 date: 2014-12-22 08:47:00
 mtitle: “関連・その他”の項目に関連リンク追加
 mdescription: 
@@ -146,6 +145,7 @@ h3. YouTube
 h2. %(title)履歴%
 
 {% assign posts_collate = site.posts %}
+{% assign group = 'history' %}
 {% include custom/posts_collate_history %}
 
 

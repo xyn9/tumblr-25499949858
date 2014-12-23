@@ -14,13 +14,16 @@ Usage:
         => 'for post in site.posts reversed'
       2) Next make sure to change 'post.previous.date' to:
         => 'post.next.date'
-        
+
 -->{% endcomment %}
 
 <dl compact>
 {% for post in posts_collate  %}
+  {% if group == post.group and post.title != null %}
     <dt><span>{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a></dt>
     {% if post.description %}<dd>{{ post.description }}</dd>{% endif %}
+  {% endif %}
 {% endfor %}
 </dl>
 {% assign posts_collate = nil %}
+{% assign group = nil %}
