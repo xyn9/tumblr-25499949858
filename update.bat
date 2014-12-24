@@ -1,12 +1,11 @@
 @echo off
-: echo %~n0 %*
 cd /d "%~dp0."
 :
 setlocal enabledelayedexpansion
 : ------------------------------------------------------------
 :
 set _%~n0_OUTDIR=_posts
-set _%~n0_NKF=\bin\util\nkf\nkf.exe
+set _%~n0_NKF=%SystemDrive%\bin\util\nkf\nkf.exe
 :
 set _%~n0_SRC=%~f1
 if not "!_%~n0_SRC!" == "" goto init
@@ -54,11 +53,8 @@ for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo %%J^: !
 echo out: !_%~n0_DEST!
 call !_%~n0_NKF! --windows<"!_%~n0_DEST!"
 :
-rem pause
-rem set _%~n0
-rem pause
-rem del "!_%~n0_DEST!"
-:
+@echo !_%~n0_DATE:^-=^.!>%~n0.x
+@echo !_%~n0_H#title!>>%~n0.x
 :
 : ------------------------------------------------------------
 :end
