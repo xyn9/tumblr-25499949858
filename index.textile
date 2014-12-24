@@ -4,8 +4,8 @@ style: diary
 group: 
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2014-12-24 07:37:00
-mtitle: “関連・その他”の項目にリンク追加
+date: 2014-12-25 08:01:25
+mtitle: “取っ掛かり”追記＋“関連・その他”の項目にリンク追加
 mdescription: 
 ---
 {% include JB/setup %}
@@ -21,6 +21,7 @@ mdescription:
 h2. %(title)取っ掛かり%
 
 * "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775
+** "追記":http://h.hatena.ne.jp/xyn9/316231082721439650
 * "Twitter#189006327392124928":http://twitter.com/xyn9/status/189006327392124928
 * "Twitter#214739795845451776":http://twitter.com/xyn9/status/214739795845451776
 
@@ -129,6 +130,8 @@ h2. %(title)関連・その他%
 * <a name="2014-12-22-0847"></a>	"魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 ) / "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
 * "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/etail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
 * <a name="2014-12-24-0737"></a>	"「ネット利用者の右傾化、その功罪について」 その3｜C.I.L. - （４）ネットウヨク系団体の正体":http://ameblo.jp/oharan/entry-11062227958.html ("キャッシュ":http://megalodon.jp/2013-0412-2220-47/ameblo.jp/oharan/entry-11062227958.html )
+* <a name="2014-12-25-0801"></a>	"「ネット利用者の右傾化、その功罪について」 勉強会本編(音源)｜C.I.L.":http://ameblo.jp/oharan/entry-11075500970.html ("mp3音源":http://www.ryofu.jp/op/b33-02.mp3 )
+** "講師には安田浩一　‐おはらんのネット右翼勉強会の音源公開とその反響 - Togetter":http://togetter.com/li/213979
 
 h3. ニコニコ動画
 * <a name="2012-11-28-0759"></a>	"【西部邁】総選挙で問われるべきものは？【2/2】2012.11.23":http://www.nicozon.net/msg/sm19424640 ("@2012-11-28 07:50:15":http://megalodon.jp/2012-1128-0750-15/www.nicozon.net/msg/sm19424640 )
