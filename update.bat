@@ -53,8 +53,14 @@ for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo %%J^: !
 echo out: !_%~n0_DEST!
 call !_%~n0_NKF! --windows<"!_%~n0_DEST!"
 :
-@echo !_%~n0_DATE:^-=^.!>%~n0.x
-@echo !_%~n0_H#title!>>%~n0.x
+set _%~n0_DATE=!_%~n0_DATE:^-=^.!
+@echo ^#>%~n0.x
+@echo git -d ^'!_%~n0_DATE!^'>>%~n0.x
+@echo git tag -a ^'!_%~n0_DATE!^' -m ^'!_%~n0_H#title!^'>>%~n0.x
+@echo git tag ^-l ^-n>>%~n0.x
+@echo echo.>>%~n0.x
+@echo ^#>>%~n0.x
+call !_%~n0_NKF! --oc=UTF-8 --overwrite %~n0.x
 :
 : ------------------------------------------------------------
 :end
