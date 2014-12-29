@@ -179,12 +179,8 @@ h2. %(title)関連・その他%
 
 h2. %(title)履歴%
 
-{% for post in site.posts  %}
-{% if post.group == "history" and post.title != null %}
-- %(timestamp){{ post.date | date: site.theme.date_format }}%	"{{ post.title| xml_escape }}":{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %} :=
-{% if post.description %}{{ post.description }}{% endif %}
- =:{% endif %}
-{% endfor %}
+{% assign posts_collate = site.posts %}
+{% include custom/posts_collate_history %}
 
 
 
