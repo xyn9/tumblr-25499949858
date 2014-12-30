@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2014-12-21 20:01:24 
 group: history
-layout: nil
+category: index
+date: 2014-12-21 20:01:24
 link: ./#2014-12-21-2001
-mdate: 2014-12-21 20:01:24 
-title: “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2014-12-21 20:01:24
+style: diary
+title: “日米／沖縄／原発”の項にch桜討論番組ニコ動コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2014-12-21-2001
+  delay: 0
 ---

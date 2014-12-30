@@ -16,7 +16,7 @@ goto end
 :init
 :
 set _%~n0_H-=0
-for /F "usebackq tokens=1,* delims=: " %%I in (`!_%~n0_NKF! --windows^<%~s1`) do if "!_%~n0_H-!%%I"=="0---" ( set _%~n0_H-=1 ) else if "%%I"=="---" ( goto break#1 ) else ( set _%~n0_H#%%I=%%J )
+for /F "usebackq tokens=1,* delims=^:^ " %%I in (`!_%~n0_NKF! --windows^<%~s1`) do if "!_%~n0_H-!%%I"=="0---" ( set _%~n0_H-=1 ) else if "%%I"=="---" ( goto break#1 ) else ( set _%~n0_H#%%I=%%J)
 :break#1
 :
 set _%~n0_DATE=1
@@ -42,14 +42,21 @@ set _%~n0_H#link=!_%~n0_H#link:^\index^.html=^.^\!
 set _%~n0_H#link=!_%~n0_H#link:^\=^/!
 set _%~n0_H#link=!_%~n0_H#link!^#!_%~n0_DATE!
 :
-set _%~n0_H#group=history
-set _%~n0_H#layout=nil
+set _%~n0_H#group=
+set _%~n0_H#layout=
 :
 @echo --->"!_%~n0_DEST!"
-for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo %%J^: !_%~n0_H#%%J!|!_%~n0_NKF! --oc=UTF-8>>"!_%~n0_DEST!"
+@echo.^group^:^ history>>"!_%~n0_DEST!"
+for /F "usebackq tokens=1,2* delims==#" %%I in (`set _%~n0_H#`) do @echo.%%J^:^ !_%~n0_H#%%J!>>"!_%~n0_DEST!"
+:|!_%~n0_NKF! --oc=UTF-8
+@echo layout^:^ redirect>>"!_%~n0_DEST!"
+@echo redirect^:>>"!_%~n0_DEST!"
+@echo.^ ^ url^:^ !_%~n0_H#link!>>"!_%~n0_DEST!"
+@echo.^ ^ delay^:^ ^0>>"!_%~n0_DEST!"
 @echo --->>"!_%~n0_DEST!"
 : @echo.>>"!_%~n0_DEST!"
 :
+call !_%~n0_NKF! --oc=UTF-8 --overwrite "!_%~n0_DEST!"
 echo out: !_%~n0_DEST!
 call !_%~n0_NKF! --windows<"!_%~n0_DEST!"
 :

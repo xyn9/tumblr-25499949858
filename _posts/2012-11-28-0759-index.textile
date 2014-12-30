@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2012-11-28 07:59 
 group: history
-layout: nil
+category: index
+date: 2012-11-28 07:59
 link: ./#2012-11-28-0759
-mdate: 2012-11-28 07:59 
-title: “その他”の項に選挙関連番組ニコ動コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2012-11-28 07:59
+style: diary
+title: “その他”の項に選挙関連番組ニコ動コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2012-11-28-0759
+  delay: 0
 ---

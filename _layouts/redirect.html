@@ -1,14 +1,14 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="{{ page.redirect.delay }};url={{ page.redirect.url }}">
-<title> {{ page.title }} </title>
+<meta http-equiv="refresh" content="{{ page.redirect.delay }};url={{ BASE_PATH }}/{{ page.redirect.url }}">
+<title> {{ site.title }} </title>
 </head>
 <frameset cols="100%" frameborder=0 framespacing=0 border=0 scrolling="auto" noresize>
-<frame name="{{ page.title }}" src="{{ page.redirect.url }}" border=0 marginwidth=0 marginheight=0 frameborder=0 framespacing=0 noresize>
+<frame name="{{ page.title }}" src="{{ BASE_PATH }}/{{ page.redirect.url }}" border=0 marginwidth=0 marginheight=0 frameborder=0 framespacing=0 noresize>
 </frameset>
 <noframe>
 <body>
-<a href="{{ page.redirect.url }}">{{ page.redirect.url }}</a>
+<a href="{{ BASE_PATH }}/{{ page.redirect.url }}">{{ page.redirect.url }}</a>
 
 
 {{ content }}

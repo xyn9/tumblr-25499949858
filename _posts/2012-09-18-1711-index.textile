@@ -1,11 +1,14 @@
 ---
-category: index 
-date: 2012-09-18 17:11:02 
-description:  
+category: index
+date: 2012-09-18 17:11:02
+description:
 group: history
-layout: nil
 link: ./#2012-09-18-1711
-mdate: 2012-09-18 17:11:02 
-style: diary 
-title: その他の項に「日本破滅論」引用文へのリンク追加 
+mdate: 2012-09-18 17:11:02
+style: diary
+title: その他の項に「日本破滅論」引用文へのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2012-09-18-1711
+  delay: 0
 ---

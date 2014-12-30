@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2012-11-19 14:08 
 group: history
-layout: nil
+category: index
+date: 2012-11-19 14:08
 link: ./#2012-11-19-1408
-mdate: 2012-11-19 14:08 
-title: 沖縄レイプ事件関連ニコ動コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2012-11-19 14:08
+style: diary
+title: 沖縄レイプ事件関連ニコ動コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2012-11-19-1408
+  delay: 0
 ---

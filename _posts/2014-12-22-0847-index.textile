@@ -1,11 +1,14 @@
 ---
-category: index 
-date: 2014-12-22 08:47:00 
-description:  
+category: index
+date: 2014-12-22 08:47:00
+description:
 group: history
-layout: nil
 link: ./#2014-12-22-0847
-mdate: 2014-12-22 08:47:00 
-style: diary 
-title: “関連・その他”の項目に関連リンク追加 
+mdate: 2014-12-22 08:47:00
+style: diary
+title: “関連・その他”の項目に関連リンク追加
+layout: redirect
+redirect:
+  url:  ./#2014-12-22-0847
+  delay: 0
 ---

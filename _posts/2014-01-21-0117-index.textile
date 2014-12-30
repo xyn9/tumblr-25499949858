@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2014-01-21 01:17:43 
 group: history
-layout: nil
+category: index
+date: 2014-01-21 01:17:43
 link: ./#2014-01-21-0117
-mdate: 2014-01-21 01:17:43 
-title: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2014-01-21 01:17:43
+style: diary
+title: “日米／沖縄／原発”の項目に施光恒准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+layout: redirect
+redirect:
+  url:  ./#2014-01-21-0117
+  delay: 0
 ---

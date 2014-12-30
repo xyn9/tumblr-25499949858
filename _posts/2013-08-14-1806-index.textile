@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2013-08-14 18:06:59 
 group: history
-layout: nil
+category: index
+date: 2013-08-14 18:06:59
 link: ./#2013-08-14-1806
-mdate: 2013-08-14 18:06:59 
-title: “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2013-08-14 18:06:59
+style: diary
+title: “第2次安倍政権”の項目に柴山桂太准教授＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+layout: redirect
+redirect:
+  url:  ./#2013-08-14-1806
+  delay: 0
 ---

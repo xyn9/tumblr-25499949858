@@ -1,11 +1,14 @@
 ---
-category: index 
-date: 2012-06-20 11:55:00 
-description:  
+category: index
+date: 2012-06-20 11:55:00
+description:
 group: history
-layout: nil
 link: ./#2012-06-20-1155
-mdate: 2012-06-20 11:55:00 
-style: diary 
-title: 徐々に追記していきたい 
+mdate: 2012-06-20 11:55:00
+style: diary
+title: 徐々に追記していきたい
+layout: redirect
+redirect:
+  url:  ./#2012-06-20-1155
+  delay: 0
 ---

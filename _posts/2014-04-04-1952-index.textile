@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2014-04-04 19:52:13 
 group: history
-layout: nil
+category: index
+date: 2014-04-04 19:52:13
 link: ./#2014-04-04-1952
-mdate: 2014-04-04 19:52:13 
-title: “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2014-04-04 19:52:13
+style: diary
+title: “関連・その他”の項目に被爆者団体解散ニュース動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2014-04-04-1952
+  delay: 0
 ---

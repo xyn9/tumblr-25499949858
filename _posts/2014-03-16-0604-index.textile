@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2014-03-16 06:04:11 
 group: history
-layout: nil
+category: index
+date: 2014-03-16 06:04:11
 link: ./#2014-03-16-0604
-mdate: 2014-03-16 06:04:11 
-title: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2014-03-16 06:04:11
+style: diary
+title: “日米／沖縄／原発”の項目に田母神俊雄氏動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2014-03-16-0604
+  delay: 0
 ---

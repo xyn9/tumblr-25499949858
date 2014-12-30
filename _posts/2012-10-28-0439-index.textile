@@ -1,11 +1,14 @@
 ---
-category: index 
-date: 2012-10-28 04:39:51 
-description:  
+category: index
+date: 2012-10-28 04:39:51
+description:
 group: history
-layout: nil
 link: ./#2012-10-28-0439
-mdate: 2012-10-28 04:39:51 
-style: diary 
-title: その他の項にYouTubeコメントスレッドへのリンク追加 
+mdate: 2012-10-28 04:39:51
+style: diary
+title: その他の項にYouTubeコメントスレッドへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2012-10-28-0439
+  delay: 0
 ---

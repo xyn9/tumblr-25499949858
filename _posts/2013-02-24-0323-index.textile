@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2013-02-24 03:23 
 group: history
-layout: nil
+category: index
+date: 2013-02-24 03:23
 link: ./#2013-02-24-0323
-mdate: 2013-02-24 03:23 
-title: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2013-02-24 03:23
+style: diary
+title: “関連・その他”の項目に政党ブームについての動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2013-02-24-0323
+  delay: 0
 ---

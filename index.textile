@@ -1,10 +1,11 @@
 ---
 layout: page
 style: diary
-group: 
+title: index
+group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2014-12-25 08:01:25 
+date: 2019-12-25 08:01:25
 mtitle: “取っ掛かり”追記＋“関連・その他”の項目にリンク追加
 mdescription: 
 ---

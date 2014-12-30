@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2013-08-18 15:36:23 
 group: history
-layout: nil
+category: index
+date: 2013-08-18 15:36:23
 link: ./#2013-08-18-1536
-mdate: 2013-08-18 15:36:23 
-title: “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2013-08-18 15:36:23
+style: diary
+title: “第2次安倍政権”の項目に小林よしのり＠ズームそこまで言うか！動画コメントへのリンク＋放送時TLのtogetterまとめ追加
+layout: redirect
+redirect:
+  url:  ./#2013-08-18-1536
+  delay: 0
 ---

@@ -1,11 +1,14 @@
 ---
-category: index 
-date: 2012-10-02 23:25:55 
-description:  
+category: index
+date: 2012-10-02 23:25:55
+description:
 group: history
-layout: nil
 link: ./#2012-10-02-2325
-mdate: 2012-10-02 23:25:55 
-style: diary 
-title: 沖縄・日米地位協定の項に1件追加 
+mdate: 2012-10-02 23:25:55
+style: diary
+title: 沖縄・日米地位協定の項に1件追加
+layout: redirect
+redirect:
+  url:  ./#2012-10-02-2325
+  delay: 0
 ---

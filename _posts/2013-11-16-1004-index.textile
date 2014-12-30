@@ -1,10 +1,13 @@
 ---
-category: index
-date: 2013-11-16 10:04:13 
 group: history
-layout: nil
+category: index
+date: 2013-11-16 10:04:13
 link: ./#2013-11-16-1004
-mdate: 2013-11-16 10:04:13 
-title: “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加 
-tags: ["wiki", "#25499949858"] 
+mdate: 2013-11-16 10:04:13
+style: diary
+title: “関連・その他”の項目に槇文彦氏による911ビル完工ニュース動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url:  ./#2013-11-16-1004
+  delay: 0
 ---
