@@ -5,8 +5,8 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2015-01-24 23:11:03
-mtitle: “第2次安倍政権”の項目に「イスラム国」邦人誘拐事件関連番組動画コメントへのリンク追加
+date: 2015-01-25 00:35:48
+mtitle: “関連・その他”の項目にニュース記事＋はてブエントリへのリンク追加
 mdescription: 
 ---
 {% include JB/setup %}
@@ -156,6 +156,8 @@ h2. %(title)関連・その他%
 *** "何も言えねえ#25774176262":http://xyn9-should-not-have-to-say.tumblr.com/post/25774176262
 * <a name="2014-12-25-0801"></a>	"「ネット利用者の右傾化、その功罪について」 勉強会本編(音源)｜C.I.L.":http://ameblo.jp/oharan/entry-11075500970.html ("mp3音源":http://www.ryofu.jp/op/b33-02.mp3 )
 ** "講師には安田浩一　‐おはらんのネット右翼勉強会の音源公開とその反響 - Togetter":http://togetter.com/li/213979
+* <a name="2015-01-25-0035"></a>	"「モノ言えない社会は息苦しい」名誉毀損で訴えられたネトウヨ大学生の告白 - DMMニュース":http://dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0033-34/dmm-news.com/article/911752/ )
+** "はてなブックマーク":http://b.hatena.ne.jp/entry/dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0035-48/b.hatena.ne.jp/entry/dmm-news.com/article/911752/ )
 
  =:
 - <h3>ニコニコ動画</h3>:=

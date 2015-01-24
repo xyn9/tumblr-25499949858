@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-01-25 00:35:48
+link: ./#2015-01-25-0035
+mdate: 2015-01-25 00:35:48
+style: diary
+title: “関連・その他”の項目にニュース記事＋はてブエントリへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-01-25-0035
+  delay: 0
+---
