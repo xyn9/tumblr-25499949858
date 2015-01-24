@@ -5,8 +5,8 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2019-12-25 08:01:25
-mtitle: “取っ掛かり”追記＋“関連・その他”の項目にリンク追加
+date: 2015-01-24 23:11:03
+mtitle: “第2次安倍政権”の項目に「イスラム国」邦人誘拐事件関連番組動画コメントへのリンク追加
 mdescription: 
 ---
 {% include JB/setup %}
@@ -121,6 +121,7 @@ h2. %(title)第2次安倍政権%
 * "【宮崎哲弥】ザ･ボイス そこまで言うか！H26/03/25【日本と台湾の絆】":http://www.nicozon.net/msg/sm23175200 ("@2014-03-26 03:27:37":http://megalodon.jp/2014-0326-0327-37/www.nicozon.net/msg/sm23175200 )	[<a href="data/sm23175200" name="2014-03-26-0326">data</a>]
 ** ユーザーコメントより
 *** "2-eGNFi_omsiNJle_ie3KmVmaFQ":http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ ("@2014-03-26 03:26:09":http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ )
+* "「イスラム国」日本人人質事件のミカタ":http://nicoco.net/sm25415259 ("@2015-01-24 23:11:03":http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259 )	[<a href="data/sm25415259" name="2015-01-24-2311">data</a>]
 
  =:
 - <h3>YouTube</h3>:=

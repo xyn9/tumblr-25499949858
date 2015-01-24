@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-01-24 23:11:03
+link: ./#2015-01-24-2311
+mdate: 2015-01-24 23:11:03
+style: diary
+title: “第2次安倍政権”の項目に「イスラム国」邦人誘拐事件関連番組動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-01-24-2311
+  delay: 0
+---
