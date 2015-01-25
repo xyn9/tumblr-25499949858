@@ -2,6 +2,7 @@
 group: history
 category: index
 date: 2015-01-25 00:35:48
+description: ＋Togetterまとめ(2015-01-25 15:59:38)
 link: ./#2015-01-25-0035
 mdate: 2015-01-25 00:35:48
 style: diary

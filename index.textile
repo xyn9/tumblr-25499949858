@@ -7,7 +7,7 @@ category: index
 description: http://xyn9.tumblr.com/post/25499949858
 date: 2015-01-25 00:35:48
 mtitle: “関連・その他”の項目にニュース記事＋はてブエントリへのリンク追加
-mdescription: 
+mdescription: ＋Togetterまとめ(2015-01-25 15:59:38)
 ---
 {% include JB/setup %}
 
@@ -158,6 +158,7 @@ h2. %(title)関連・その他%
 ** "講師には安田浩一　‐おはらんのネット右翼勉強会の音源公開とその反響 - Togetter":http://togetter.com/li/213979
 * <a name="2015-01-25-0035"></a>	"「モノ言えない社会は息苦しい」名誉毀損で訴えられたネトウヨ大学生の告白 - DMMニュース":http://dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0033-34/dmm-news.com/article/911752/ )
 ** "はてなブックマーク":http://b.hatena.ne.jp/entry/dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0035-48/b.hatena.ne.jp/entry/dmm-news.com/article/911752/ )
+** "TL:DMMニュース記事「名誉毀損で訴えられたネトウヨ大学生の告白」へのコメント集 - Togetter":http://togetter.com/li/774157
 
  =:
 - <h3>ニコニコ動画</h3>:=
