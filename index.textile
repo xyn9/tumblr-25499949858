@@ -5,7 +5,7 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2015-01-25 00:35:48
+date: 2015-01-25 15:59:38
 mtitle: “関連・その他”の項目にニュース記事＋はてブエントリへのリンク追加
 mdescription: ＋Togetterまとめ(2015-01-25 15:59:38)
 ---
