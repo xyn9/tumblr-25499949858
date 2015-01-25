@@ -62,8 +62,8 @@ call !_%~n0_NKF! --windows<"!_%~n0_DEST!"
 :
 set _%~n0_DATE=!_%~n0_DATE:^-=^.!
 @echo ^#>%~n0.x
-@echo git -d ^'!_%~n0_DATE!^'>>%~n0.x
-@echo git tag -a ^'!_%~n0_DATE!^' -m ^'!_%~n0_H#title!^'>>%~n0.x
+@echo git tag ^-d ^'!_%~n0_DATE!^'>>%~n0.x
+@echo git tag ^-a ^'!_%~n0_DATE!^' -m ^'!_%~n0_H#title!^'>>%~n0.x
 @echo git tag ^-l ^-n>>%~n0.x
 @echo echo.>>%~n0.x
 @echo ^#>>%~n0.x
