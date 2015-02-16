@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-02-17 04:29:13
+link: ./#2015-02-17-0429
+mdate: 2015-02-17 04:29:13
+style: diary
+title: “大阪ダブル選挙・維新の会”の項目に藤井聡教授による大阪ト構想解説動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-02-17-0429
+  delay: 0
+---
