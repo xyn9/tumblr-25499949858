@@ -5,7 +5,7 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2015-02-17 04:57:49
+date: 2015-02-17 17:11:58
 mtitle: “大阪ダブル選挙・維新の会”の項目に藤井聡教授声明動画コメント＋大阪ト構想解説動画コメントへのリンク追加
 mdescription: 
 ---
@@ -44,7 +44,7 @@ h2. %(title)大阪ダブル選挙・維新の会%
 * "【口蹄疫】東国原知事　会見でマスコミに激怒（2010/05/18）":http://www.nicozon.net/msg/sm10767857 ("@2012-12-02 21:48:25":http://megalodon.jp/2012-1202-2148-25/www.nicozon.net/msg/sm10767857 )	[<a href="data/sm10767857" name="2012-12-02-2156">data</a>]
 ** "Twitter#14392992801":http://twitter.com/xyn9/status/14392992801
 * "【藤井聡「都構想問題」声明文】「権力による言論封殺には屈しません」":http://nicoco.net/sm25523167 ("@2015-02-17 04:57:49":http://megalodon.jp/2015-0217-0457-49/nicoco.net/sm25523167 )	[<a href="data/sm25523167" name="2015-02-17-0457">data</a>]
-** "【H27/02/16 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25590222 ("@2015-02-17 04:29:13":http://megalodon.jp/2015-0217-0429-13/nicoco.net/sm25590222 )	[<a href="data/sm25590222" name="2015-02-17-0429">data</a>]
+** "【H27/02/16 超人大陸】藤井教授の大阪都構想を考える":http://nicoco.net/sm25590222 ("@2015-02-17 17:11:58":http://megalodon.jp/2015-0217-1711-58/nicoco.net/sm25590222 )	[<a href="data/sm25590222" name="2015-02-17-1711">data</a>]
 
  =:
 - <h3>Twitter</h3>:=
