@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2015-02-17 17:11:58
-mtitle: “大阪ダブル選挙・維新の会”の項目に藤井聡教授声明動画コメント＋大阪ト構想解説動画コメントへのリンク追加
-mdescription: 
+date: 2015-02-18 19:28:00
+mtitle: “関連・その他”の項目に関連リンク追加
+mdescription: ふと、あるフレーズの思い出しついでに。 http://twitter.com/xyn9/status/567980173498322944
 ---
 {% include JB/setup %}
 
@@ -156,11 +156,12 @@ h2. %(title)関連・その他%
 * <a name="2014-12-24-0737"></a>	"「ネット利用者の右傾化、その功罪について」 その3｜C.I.L. - （４）ネットウヨク系団体の正体":http://ameblo.jp/oharan/entry-11062227958.html ("キャッシュ":http://megalodon.jp/2013-0412-2220-47/ameblo.jp/oharan/entry-11062227958.html )
 ** "メモ片#47779280186":http://xyn9.tumblr.com/post/47779280186
 *** "何も言えねえ#25774176262":http://xyn9-should-not-have-to-say.tumblr.com/post/25774176262
-* <a name="2014-12-25-0801"></a>	"「ネット利用者の右傾化、その功罪について」 勉強会本編(音源)｜C.I.L.":http://ameblo.jp/oharan/entry-11075500970.html ("mp3音源":http://www.ryofu.jp/op/b33-02.mp3 )
-** "講師には安田浩一　‐おはらんのネット右翼勉強会の音源公開とその反響 - Togetter":http://togetter.com/li/213979
+** <a name="2014-12-25-0801"></a>	"「ネット利用者の右傾化、その功罪について」 勉強会本編(音源)｜C.I.L.":http://ameblo.jp/oharan/entry-11075500970.html ("mp3音源":http://www.ryofu.jp/op/b33-02.mp3 )
+*** "講師には安田浩一　‐おはらんのネット右翼勉強会の音源公開とその反響 - Togetter":http://togetter.com/li/213979
 * <a name="2015-01-25-0035"></a>	"「モノ言えない社会は息苦しい」名誉毀損で訴えられたネトウヨ大学生の告白 - DMMニュース":http://dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0033-34/dmm-news.com/article/911752/ )
 ** "はてなブックマーク":http://b.hatena.ne.jp/entry/dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0035-48/b.hatena.ne.jp/entry/dmm-news.com/article/911752/ )
 ** "TL:DMMニュース記事「名誉毀損で訴えられたネトウヨ大学生の告白」へのコメント集 - Togetter":http://togetter.com/li/774157
+* <a name="2008-05-03-0414"></a>	"長野行ったけど、警察の対応について。 - はてな匿名ダイアリー":http://anond.hatelabo.jp/20080428234130 ("キャッシュ":http://megalodon.jp/2008-0503-0414-12/anond.hatelabo.jp/20080428234130 )
 
  =:
 - <h3>ニコニコ動画</h3>:=
