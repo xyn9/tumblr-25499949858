@@ -3,12 +3,12 @@ group: history
 category: index
 date: 2015-02-18 19:28
 description: ふと、あるフレーズの思い出しついでに。 http://twitter.com/xyn9/status/567980173498322944
-link: ./#2008-05-03-0414
+link: ./#2015-02-18-1928
 mdate: 2015-02-18 19:28
 style: diary
 title: “関連・その他”の項目に関連リンク追加
 layout: redirect
 redirect:
-  url: ./#2008-05-03-0414
+  url: ./#2015-02-18-1928
   delay: 0
 ---
