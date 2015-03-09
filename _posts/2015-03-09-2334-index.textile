@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-03-09 23:34
+link: ./#2015-03-09-2334
+mdate: 2015-03-09 23:34
+style: diary
+title: “大阪ダブル選挙・維新の会”の項目にTogetterほかニュース・ブログ記事等へのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-03-09-2334
+  delay: 0
+---

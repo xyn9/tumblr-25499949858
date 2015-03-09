@@ -4,10 +4,10 @@ style: diary
 title: index
 group: navigation
 category: index
+date: 2015-03-09 23:34
 description: http://xyn9.tumblr.com/post/25499949858
-date: 2015-02-18 19:28:00
-mtitle: “関連・その他”の項目に関連リンク追加
-mdescription: ふと、あるフレーズの思い出しついでに。 http://twitter.com/xyn9/status/567980173498322944
+mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterほかニュース・ブログ記事等へのリンク追加
+mdescription: 
 ---
 {% include JB/setup %}
 
@@ -51,6 +51,17 @@ h2. %(title)大阪ダブル選挙・維新の会%
 
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102
 * "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088
+* <a name="2015-03-09-2334"></a>	"【大阪都構想】俺に反対する者をテレビに出すな【維新の党】":http://togetter.com/li/791469
+** "Twitter#573939012412407808":http://twitter.com/xyn9/status/573939012412407808
+*** "森田実の言わねばならぬ／平和・自立・調和の日本をつくるために【95】《今日の論点(2)》":http://moritasouken.com/sC4127.HTML ("キャッシュ":http://megalodon.jp/2015-0309-2315-38/moritasouken.com/sC4127.HTML )
+
+ =:
+- <h3>ブログ他</h3>:=
+
+* "自爆していく橋下徹！ - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jol0lb0bq-736#_736 ("キャッシュ":http://megalodon.jp/2015-0309-2316-45/https://www.gosen-dojo.com:443/index.php?key=jol0lb0bq-736 ) / "「呼び捨てされ激怒」の橋下市長に反論　小林よしのり氏「常軌を逸してないか？」 : J-CASTニュース":http://www.j-cast.com/2012/05/01130942.html?p=all ("キャッシュ":http://megalodon.jp/2015-0309-2316-53/www.j-cast.com/2012/05/01130942.html?p=all )
+** "何も言えねえ#96639593560":http://xyn9-should-not-have-to-say.tumblr.com/post/96639593560
+* "メモ片#101862559487":http://xyn9.tumblr.com/post/101862559487
+* "読書ノート『日本破滅論』, p.188":http://book.g.hatena.ne.jp/xyn9/20120914/1347600570
 
  =:
 
@@ -149,7 +160,7 @@ h2. %(title)関連・その他%
 * "ニコニコ動画のコメントの年齢分析したら中学生がほとんどだった件 - いろいろ作りたい":http://d.hatena.ne.jp/gen256/20111105/1320503106 ("キャッシュ":http://megalodon.jp/2011-1107-1609-30/d.hatena.ne.jp/gen256/20111105/1320503106 )
 * "ニコニコ動画　3億コメント年齢層分析-NICONICO COMMENT ANALYZER":http://www.niconico-ca.net/pickup3-1.html ("キャッシュ":http://web.archive.org/web/20120202204303/http://www.niconico-ca.net/pickup3-1.html )
 * "村野瀬玲奈の秘書課広報室 | 東大話法とはネトウヨコメントである":http://muranoserena.blog91.fc2.com/blog-entry-3311.html ("キャッシュ":http://megalodon.jp/2014-1223-0806-57/muranoserena.blog91.fc2.com/blog-entry-3311.html )  / "何も言えねえ#25511948078":http://xyn9-should-not-have-to-say.tumblr.com/post/25511948078
-* <a name="2012-09-18-1711"></a>	"日本破滅論, pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
+* <a name="2012-09-18-1711"></a>	"読書ノート『日本破滅論』,pp.174-5":http://book.g.hatena.ne.jp/xyn9/20120912/1347452892 / "pp.172-3":http://book.g.hatena.ne.jp/xyn9/20130818/isbn4166608713p172
 * <a name="2013-08-19-0222"></a>	"羽鳥剛史, 小松佳弘, 藤井聡: 大衆性尺度の構成―Ortega&quot;大衆の反逆&quot;に基づく大衆の心的構造分析―, 心理学研究, Vol. 79, No. 5, pp. 423-431. 2008.":https://www.jstage.jst.go.jp/article/jjpsy/79/5/79_5_423/_article/-char/ja/
 * <a name="2014-12-22-0847"></a>	"魔女狩りの恐怖　セイラム村の魔女裁判｜幻解！超常ファイル | テレビのまとめ":http://tvmatome.net/archives/488 ("キャッシュ":http://megalodon.jp/2014-0907-1948-20/tvmatome.net/archives/488 ) / "Twitter#508575636563058688":http://twitter.com/xyn9/status/508575636563058688
 * "“ギャンブル依存症” - NHK　クローズアップ現代":http://www.nhk.or.jp/gendai/kiroku/etail02_3582_1.html ("キャッシュ":http://megalodon.jp/2014-1216-0624-35/www.nhk.or.jp/gendai/kiroku/detail02_3582_1.html ) / "Twitter#534726635686072320":http://twitter.com/xyn9/status/534726635686072320
