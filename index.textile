@@ -4,10 +4,10 @@ style: diary
 title: index
 group: navigation
 category: index
-date: 2015-03-09 23:34
+date: 2015-03-11 01:41
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterほかニュース・ブログ記事等へのリンク追加
-mdescription: 
+mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク追加
+mdescription: 文楽補助金全廃について(by.@Lynette_Ellils)
 ---
 {% include JB/setup %}
 
@@ -51,6 +51,7 @@ h2. %(title)大阪ダブル選挙・維新の会%
 
 * "トッキー氏と維新の会支持者らのTLより #0 - Togetter":http://togetter.com/li/302102
 * "トッキー氏と維新の会支持者らのTLより #1 - Togetter":http://togetter.com/li/302088
+* <a name="2015-03-11-0141"></a>	"大阪市、文楽補助金15年度から全廃":http://togetter.com/li/736891
 * <a name="2015-03-09-2334"></a>	"【大阪都構想】俺に反対する者をテレビに出すな【維新の党】":http://togetter.com/li/791469
 ** "Twitter#573939012412407808":http://twitter.com/xyn9/status/573939012412407808
 *** "森田実の言わねばならぬ／平和・自立・調和の日本をつくるために【95】《今日の論点(2)》":http://moritasouken.com/sC4127.HTML ("キャッシュ":http://megalodon.jp/2015-0309-2315-38/moritasouken.com/sC4127.HTML )

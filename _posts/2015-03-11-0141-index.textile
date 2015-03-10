@@ -1,0 +1,14 @@
+---
+group: history
+category: index
+date: 2015-03-11 01:41
+description: 文楽補助金全廃について(by.@Lynette_Ellils)
+link: ./#2015-03-11-0141
+mdate: 2015-03-11 01:41
+style: diary
+title: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-03-11-0141
+  delay: 0
+---
