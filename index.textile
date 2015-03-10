@@ -4,10 +4,10 @@ style: diary
 title: index
 group: navigation
 category: index
-date: 2015-03-11 01:49
+date: 2015-03-11 01:50
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “第2次安倍政権”の項目にTogetterまとめへのリンク追加
-mdescription: 日本会議について(by.@karitoshi2011)
+mtitle: “大阪ダブル選挙・維新の会”・“第2次安倍政権”の項目に各々Togetterまとめへのリンク追加
+mdescription: 
 ---
 {% include JB/setup %}
 
@@ -147,7 +147,7 @@ h2. %(title)第2次安倍政権%
 - <h3>Twitter</h3>:=
 
 * TL:難病の首相と国会中の中座 "#00":http://togetter.com/li/466229 "#01":http://togetter.com/li/466337 "#02":http://togetter.com/li/466357 "#03":http://togetter.com/li/466699 "#04":http://togetter.com/li/466839
-* <a name="2015-03-11-0149"></a>	"【現在の自民党が頼る日本会議の宗教的背景】":http://togetter.com/li/700939
+* <a name="2015-03-11-0150"></a>	"【現在の自民党が頼る日本会議の宗教的背景】":http://togetter.com/li/700939
 
  =:
 

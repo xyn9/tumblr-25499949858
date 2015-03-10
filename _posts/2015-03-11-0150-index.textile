@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-03-11 01:50
+link: ./#2015-03-11-0150
+mdate: 2015-03-11 01:50
+style: diary
+title: “大阪ダブル選挙・維新の会”・“第2次安倍政権”の項目に各々Togetterまとめへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-03-11-0150
+  delay: 0
+---
