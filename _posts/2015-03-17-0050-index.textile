@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-03-17 00:50
+link: ./#2015-03-17-0050
+mdate: 2015-03-17 00:50
+style: diary
+title: “第2次安倍政権”の項目にTogetterまとめへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-03-17-0050
+  delay: 0
+---
