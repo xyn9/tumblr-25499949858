@@ -4,10 +4,10 @@ style: diary
 title: index
 group: navigation
 category: index
-date: 2015-03-17 00:50
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “第2次安倍政権”の項目にTogetterまとめへのリンク追加
-mdescription: 
+mtitle: “大阪ダブル選挙・維新の会”の項目にその他リンク追加
+mdescription: 「ヘドロチック」とハンナ・アーレント「全体主義」関連
+date: 2015-03-22 17:26
 ---
 {% include JB/setup %}
 
@@ -63,6 +63,12 @@ h2. %(title)大阪ダブル選挙・維新の会%
 ** "何も言えねえ#96639593560":http://xyn9-should-not-have-to-say.tumblr.com/post/96639593560
 * "メモ片#101862559487":http://xyn9.tumblr.com/post/101862559487
 * "読書ノート『日本破滅論』, p.188":http://book.g.hatena.ne.jp/xyn9/20120914/1347600570
+
+h4. <a name="2015-03-22-1726"></a>	「道頓堀」「ヘドロチック」関連
+* "西田ビジョン「西田昌司×藤井聡の維新を斬る！」":http://www.shukannishida.jp/nishidavision-ujii.html / ("playlist":http://youtu.be/o4u9nxb77TA?lit=PLU_xxVlhKz1fuzaKz8ftITHL434Z3vtcw&index=3 )
+** "Twitter#579361696801693696":http://twitter.com/xyn9/status/579361696801693696
+*** "視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 | 視点・論点 | 解説委員室:NHK":http://www.nhk.or.jp/kaisetsu-blog/400/191681.html ("キャッシュ":http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html )
+*** "読書ノート『グローバリズムが世界を滅ぼす』, pp.55-9":http://book.g.hatena.ne.jp/xyn9/20140705/isbn4166609741p55
 
  =:
 
