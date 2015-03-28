@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-03-29 00:01:47
+link: ./#2015-03-29-0001
+mdate: 2015-03-29 00:01:47
+style: diary
+title: “日米／沖縄／原発”の項目に米軍辺野古基地建設工事に関するニュース・バラエティ番組動画コメントへのリンク追加
+layout: redirect
+redirect:
+  url: ./#2015-03-29-0001
+  delay: 0
+---
