@@ -2,11 +2,10 @@
 group: history
 category: index
 date: 2015-04-06 16:46
-description: 藤井聡教授＠ト構想問題シリーズ
 link: ./#2015-04-06-1646
 mdate: 2015-04-06 16:46
 style: diary
-title: “大阪ダブル選挙・維新の会”の項目にニコニコ動画コメントへのリンク追加
+title: “大阪ダブル選挙・維新の会”の項目に藤井聡教授＠ト構想問題シリーズ動画コメントへのリンク追加
 layout: redirect
 redirect:
   url: ./#2015-04-06-1646

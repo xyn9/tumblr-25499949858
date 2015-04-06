@@ -5,8 +5,8 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “大阪ダブル選挙・維新の会”の項目にニコニコ動画コメントへのリンク追加
-mdescription: 藤井聡教授＠ト構想問題シリーズ
+mtitle: “大阪ダブル選挙・維新の会”の項目に藤井聡教授＠ト構想問題シリーズ動画コメントへのリンク追加
+mdescription: 
 date: 2015-04-06 16:46
 ---
 {% include JB/setup %}
