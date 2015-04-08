@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “大阪ダブル選挙・維新の会”の項目に藤井聡教授＠ト構想問題シリーズ動画コメントへのリンク追加
-mdescription: 
-date: 2015-04-06 16:46
+mtitle: “大阪ダブル選挙・維新の会”・“関連・その他”の項目に各々ブログ記事他へのリンク
+mdescription: 「イメージ」に関して＋「アイヌ」全体主義化問題
+date: 2015-04-08 17:00:09
 ---
 {% include JB/setup %}
 
@@ -64,9 +64,12 @@ h2. %(title)大阪ダブル選挙・維新の会%
 ** "何も言えねえ#96639593560":http://xyn9-should-not-have-to-say.tumblr.com/post/96639593560
 * "メモ片#101862559487":http://xyn9.tumblr.com/post/101862559487
 * "読書ノート『日本破滅論』, p.188":http://book.g.hatena.ne.jp/xyn9/20120914/1347600570
+* <a name="2015-04-08-1719"></a>	"「維新・足立議員」の国会質疑に基づく主張の不当性について｜藤井聡":http://satoshi-fujii.com/150325-2/ ("キャッシュ":http://megalodon.jp/2015-0408-1719-24/satoshi-fujii.com/150325-2/ )
+** "Twitter#580607904820105216":http://twitter.com/xyn9/status/580607904820105216
+** "読書ノート『文明の災禍』, pp.72-82":http://book.g.hatena.ne.jp/xyn9/20150308/isbn4106104374p72
 
 h4. <a name="2015-03-22-1726"></a>	「道頓堀」「ヘドロチック」関連
-* "西田ビジョン「西田昌司×藤井聡の維新を斬る！」":http://www.shukannishida.jp/nishidavision-ujii.html / ("playlist":http://youtu.be/o4u9nxb77TA?lit=PLU_xxVlhKz1fuzaKz8ftITHL434Z3vtcw&index=3 )
+* "西田ビジョン「西田昌司×藤井聡の維新を斬る！」":http://www.shukannishida.jp/nishidavision-fujii.html / ("playlist":http://youtu.be/o4u9nxb77TA?lit=PLU_xxVlhKz1fuzaKz8ftITHL434Z3vtcw&index=3 )
 ** "Twitter#579361696801693696":http://twitter.com/xyn9/status/579361696801693696
 *** "視点・論点　「ハンナ・アーレントと”悪の凡庸さ”」 | 視点・論点 | 解説委員室:NHK":http://www.nhk.or.jp/kaisetsu-blog/400/191681.html ("キャッシュ":http://megalodon.jp/2014-0628-1615-18/www.nhk.or.jp/kaisetsu-blog/400/191681.html )
 *** "読書ノート『グローバリズムが世界を滅ぼす』, pp.55-9":http://book.g.hatena.ne.jp/xyn9/20140705/isbn4166609741p55
@@ -165,7 +168,9 @@ h2. %(title)関連・その他%
 ** "はてなブックマーク":http://b.hatena.ne.jp/entry/dmm-news.com/article/911752/ ("キャッシュ":http://megalodon.jp/2015-0125-0035-48/b.hatena.ne.jp/entry/dmm-news.com/article/911752/ )
 ** "TL:DMMニュース記事「名誉毀損で訴えられたネトウヨ大学生の告白」へのコメント集 - Togetter":http://togetter.com/li/774157
 * <a name="2015-02-18-1928"></a>	"メモ片#33554562(「毛沢東の子供たち」)":http://xyn9.tumblr.com/post/33554562
-** "メモ片#33016078()":http://xyn9.tumblr.com/post/33016078
+** "メモ片#33016078":http://xyn9.tumblr.com/post/33016078
+* <a name="2015-04-08-1700"></a>	"民主主義の敵・香山リカとお仲間の「村八分戦略」 - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jor1iz2hj-736#_736 ("キャッシュ":http://megalodon.jp/2015-0408-1700-09/https://www.gosen-dojo.com:443/index.php?key=jor1iz2hj-736 )
+* "アイヌ「民族」肯定派は、まるで総会屋 - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jof7kz9kl-736#_736 / "コメントNo.15: 鷲ヲともふさ":http://ch.nicovideo.jp/yoshirin/blomaga/ar766758/15 ("キャッシュ":http://megalodon.jp/2015-0408-1900-45/ch.nicovideo.jp/yoshirin/blomaga/ar766758/15 )
 
  =:
 - <h3>ニコニコ動画</h3>:=
