@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “日米／沖縄／原発”の項目に米軍基地建設と「ヘイトスピーチ」に関する記事へのリンク
-mdescription: 
-date: 2015-04-08 19:53:15
+mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+mdescription: どうしても「大進山田」的なものが想起される
+date: 2015-04-09 21:41
 ---
 {% include JB/setup %}
 
@@ -56,6 +56,7 @@ h2. %(title)大阪ダブル選挙・維新の会%
 * <a name="2015-03-09-2334"></a>	"【大阪都構想】俺に反対する者をテレビに出すな【維新の党】":http://togetter.com/li/791469
 ** "Twitter#573939012412407808":http://twitter.com/xyn9/status/573939012412407808
 *** "森田実の言わねばならぬ／平和・自立・調和の日本をつくるために【95】《今日の論点(2)》":http://moritasouken.com/sC4127.HTML ("キャッシュ":http://megalodon.jp/2015-0309-2315-38/moritasouken.com/sC4127.HTML )
+* <a name="2015-04-09-2141"></a>	"橋下徹、子飼いのネット工作員（ステマ）の恥ずかしい実態":http://togetter.com/li/805477 → "はてなハイク#189913258751931775":http://h.hatena.ne.jp/xyn9/189913258751931775
 
  =:
 - <h3>ブログ他</h3>:=

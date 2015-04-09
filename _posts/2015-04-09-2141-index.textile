@@ -1,0 +1,14 @@
+---
+group: history
+category: index
+date: 2015-04-09 21:41
+description: どうしても「大進山田」的なものが想起される
+link: ./#2015-04-09-2141
+mdate: 2015-04-09 21:41
+style: diary
+title: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+layout: redirect
+redirect:
+  url: ./#2015-04-09-2141
+  delay: 0
+---
