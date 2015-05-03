@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
-mdescription: どうしても「大進山田」的なものが想起される
-date: 2015-04-09 21:41
+mtitle: “日米／沖縄／原発”の項目に西部邁ゼミナールニコニコ動画コメントへのリンク
+mdescription: 
+date: 2015-05-03 16:09:26
 ---
 {% include JB/setup %}
 
@@ -103,6 +103,9 @@ h2. %(title)日米／沖縄／原発%
 * "「放射線は体にいい！」 「放射線は累積しない！」":http://www.nicozon.net/msg/sm23101203 ("@2014-03-16 06:04:11":http://megalodon.jp/2014-0316-0604-11/www.nicozon.net/msg/sm23101203 )	[<a href="data/sm23101203" name="2014-03-16-0604">data</a>]
 * "3/3【討論！】選挙結果とこれからの日本[桜H26/12/20]":http://nicoco.net/1419032245 ("@2014-12-21 20:01:24":http://megalodon.jp/2014-1221-2001-24/nicoco.net/1419032245 )	[<a href="data/so25157060" name="2014-12-21-2001">data</a>]
 * "沖縄基地問題のミカタ":http://nicoco.net/sm25893696 ("@2015-03-29 00:01:47":http://megalodon.jp/2015-0329-0001-47/nicoco.net/sm25893696 )	[<a href="data/sm25893696" name="2015-03-29-0001">data</a>]
+* "【西部邁ゼミナール】鳩山元首相が語る、米軍基地問題 2015.05.03":http://nicoco.net/sm26166624 ("@2015-05-03 16:09:26":http://megalodon.jp/2015-0503-1609-26/nicoco.net/sm26166624 )	[<a href="data/sm26166624" name="2015-05-03-1609">data</a>]
+** ユーザーコメントより
+*** "K6VNQobsIrwnvXnrGrxx61vFzfI":http://nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI ("@2015-05-03 16:26:15":http://megalodon.jp/2015-0503-1626-15/nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI )
 
  =:
 - <h3>ブログ他</h3>:=

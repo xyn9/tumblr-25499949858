@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-05-03 16:09:26
+link: ./#2015-05-03-1609
+mdate: 2015-05-03 16:09:26
+style: diary
+title: “日米／沖縄／原発”の項目に西部邁ゼミナールニコニコ動画コメントへのリンク
+layout: redirect
+redirect:
+  url: ./#2015-05-03-1609
+  delay: 0
+---
