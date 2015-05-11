@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-05-11 17:38
+link: ./#2015-05-11-1738
+mdate: 2015-05-11 17:38
+style: diary
+title: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+layout: redirect
+redirect:
+  url: ./#2015-05-11-1738
+  delay: 0
+---
