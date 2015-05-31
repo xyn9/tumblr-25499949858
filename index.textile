@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “大阪ダブル選挙・維新の会”の項目にTogetterまとめへのリンク
+mtitle: “日米／沖縄／原発”の項目に沖縄問題＠朝生放送時TLのTogetterまとめ
 mdescription: 
-date: 2015-05-11 17:38
+date: 2015-05-31 18:03
 ---
 {% include JB/setup %}
 
@@ -108,6 +108,21 @@ h2. %(title)日米／沖縄／原発%
 * "【西部邁ゼミナール】鳩山元首相が語る、米軍基地問題 2015.05.03":http://nicoco.net/sm26166624 ("@2015-05-03 16:09:26":http://megalodon.jp/2015-0503-1609-26/nicoco.net/sm26166624 )	[<a href="data/sm26166624" name="2015-05-03-1609">data</a>]
 ** ユーザーコメントより
 *** "K6VNQobsIrwnvXnrGrxx61vFzfI":http://nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI ("@2015-05-03 16:26:15":http://megalodon.jp/2015-0503-1626-15/nico.xii.jp/comment/index.php?url=sm26166624&user_id=K6VNQobsIrwnvXnrGrxx61vFzfI )
+
+ =:
+- <h3>Twitter</h3>:=
+
+* <a name="2015-05-31-1803"></a>"「朝まで生テレビ！」～激論！沖縄基地問題と日本～":http://www.tv-asahi.co.jp/asanama/
+** 序盤
+*** "～2時":http://togetter.com/li/828637
+*** "2時～2時30分":http://togetter.com/li/828626
+** 中盤
+*** "2時30分～3時":http://togetter.com/li/828648
+*** "3時～3時30分":http://togetter.com/li/828831
+*** "3時30分～4時":http://togetter.com/li/828845
+** 終盤
+*** "4時～":http://togetter.com/li/828853
+*** "放送終了以降":http://togetter.com/li/828609
 
  =:
 - <h3>ブログ他</h3>:=

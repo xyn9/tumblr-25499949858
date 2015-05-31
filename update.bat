@@ -78,3 +78,4 @@ set _%~n0
 rem @echo off
 :
 echo - %~nx0 -done-
+pause
