@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “日米／沖縄／原発”の項目に佐藤健志氏＠おはよう寺ちゃん動画コメントへのリンク＋放送時TLのTogetterまとめ
-mdescription: 
-date: 2015-06-01 01:51:22
+mtitle: “第2次安倍政権”の項目にTogetterまとめへのリンク
+mdescription: 政権と「宗教」団体の関係等について
+date: 2015-06-18 14:31
 ---
 {% include JB/setup %}
 
@@ -114,7 +114,7 @@ h2. %(title)日米／沖縄／原発%
  =:
 - <h3>Twitter</h3>:=
 
-* <a name="2015-05-31-1803"></a>"「朝まで生テレビ！」～激論！沖縄基地問題と日本～":http://www.tv-asahi.co.jp/asanama/
+* <a name="2015-05-31-1803"></a>"「朝まで生テレビ！」～激論！沖縄基地問題と日本～":http://www.tv-asahi.co.jp/asanama/contents/theme/0061/
 ** 序盤
 *** "～2時":http://togetter.com/li/828637
 *** "2時～2時30分":http://togetter.com/li/828626
@@ -169,6 +169,7 @@ h2. %(title)第2次安倍政権%
 * TL:難病の首相と国会中の中座 "#00":http://togetter.com/li/466229 "#01":http://togetter.com/li/466337 "#02":http://togetter.com/li/466357 "#03":http://togetter.com/li/466699 "#04":http://togetter.com/li/466839
 * <a name="2015-03-11-0150"></a>	"【現在の自民党が頼る日本会議の宗教的背景】":http://togetter.com/li/700939
 * <a name="2015-03-17-0050"></a>	"第二次安倍政権と「日本会議」の関係について":http://togetter.com/li/722392
+* <a name="2015-06-18-1431"></a>	"宗教右翼（特に生長の家）と自民党":http://togetter.com/li/790067
 
  =:
 

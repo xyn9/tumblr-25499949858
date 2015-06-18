@@ -1,0 +1,14 @@
+---
+group: history
+category: index
+date: 2015-06-18 14:31
+description: 政権と「宗教」団体の関係等について
+link: ./#2015-06-18-1431
+mdate: 2015-06-18 14:31
+style: diary
+title: “第2次安倍政権”の項目にTogetterまとめへのリンク
+layout: redirect
+redirect:
+  url: ./#2015-06-18-1431
+  delay: 0
+---
