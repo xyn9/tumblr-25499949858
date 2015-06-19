@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “第2次安倍政権”の項目にTogetterまとめへのリンク
-mdescription: 政権と「宗教」団体の関係等について
-date: 2015-06-18 14:31
+mtitle: “第2次安倍政権”の項目に日本会議に関する特集記事へのリンク
+mdescription: 
+date: 2015-06-19 20:40:51
 ---
 {% include JB/setup %}
 
@@ -170,6 +170,11 @@ h2. %(title)第2次安倍政権%
 * <a name="2015-03-11-0150"></a>	"【現在の自民党が頼る日本会議の宗教的背景】":http://togetter.com/li/700939
 * <a name="2015-03-17-0050"></a>	"第二次安倍政権と「日本会議」の関係について":http://togetter.com/li/722392
 * <a name="2015-06-18-1431"></a>	"宗教右翼（特に生長の家）と自民党":http://togetter.com/li/790067
+
+ =:
+- <h3>ブログ他</h3>:=
+
+* <a name="2015-06-19-2040"></a>	"日本会議に集まる宗教団体の面々――シリーズ【草の根保守の蠢動 第3回】 | ハーバービジネスオンライン":http://hbol.jp/28320 ("キャッシュ":http://megalodon.jp/2015-0619-2040-51/hbol.jp/28320 )
 
  =:
 
