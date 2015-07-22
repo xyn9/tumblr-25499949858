@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-07-22 16:06:37
+link: ./#2015-07-22-1606
+mdate: 2015-07-22 16:06:37
+style: diary
+title: “日米／沖縄／原発”の項目に在沖米軍基地に関する記事へのリンク＋“関連・その他”に台湾サイトの※紹介ブログ引用メモ片
+layout: redirect
+redirect:
+  url: ./#2015-07-22-1606
+  delay: 0
+---

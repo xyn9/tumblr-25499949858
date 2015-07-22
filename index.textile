@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “第2次安倍政権”の項目に日本会議に関する特集記事へのリンク
+mtitle: “日米／沖縄／原発”の項目に在沖米軍基地に関する記事へのリンク＋“関連・その他”に台湾サイトの※紹介ブログ引用メモ片
 mdescription: 
-date: 2015-06-19 20:40:51
+date: 2015-07-22 16:06:37
 ---
 {% include JB/setup %}
 
@@ -130,6 +130,7 @@ h2. %(title)日米／沖縄／原発%
 - <h3>ブログ他</h3>:=
 
 * <a name="2015-04-08-1953"></a>	"基地が嫌なら引っ越せ！ ネットや右派論壇に横行するおぞましい沖縄ヘイトスピーチ｜LITERA／リテラ":http://lite-ra.com/2015/04/post-1000.html ("キャッシュ":http://megalodon.jp/2015-0408-1953-15/lite-ra.com/2015/04/post-1000.html )
+* <a name="2015-07-22-1606"></a>	"軍事的意味はない？　でも意義がある米海兵隊の沖縄駐留 - 台湾に海兵隊を投入する意味 | THE PAGE（ザ・ページ）":http://thepage.jp/detail/20150424-00000004-wordleaf?page=2 ("キャッシュ":http://megalodon.jp/2015-0722-1606-37/thepage.jp/detail/20150424-00000004-wordleaf?page=2 )
 
  =:
 
@@ -212,6 +213,7 @@ h2. %(title)関連・その他%
 ** "メモ片#33016078":http://xyn9.tumblr.com/post/33016078
 * <a name="2015-04-08-1700"></a>	"民主主義の敵・香山リカとお仲間の「村八分戦略」 - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jor1iz2hj-736#_736 ("キャッシュ":http://megalodon.jp/2015-0408-1700-09/https://www.gosen-dojo.com:443/index.php?key=jor1iz2hj-736 )
 * "アイヌ「民族」肯定派は、まるで総会屋 - トッキーのどうがお願いします - ゴー宣ネット道場":https://www.gosen-dojo.com/index.php?key=jof7kz9kl-736#_736 / "コメントNo.15: 鷲ヲともふさ":http://ch.nicovideo.jp/yoshirin/blomaga/ar766758/15 ("キャッシュ":http://megalodon.jp/2015-0408-1900-45/ch.nicovideo.jp/yoshirin/blomaga/ar766758/15 )
+* <a name="2011-08-16-0825"></a>	"メモ片#8971457949":http://xyn9.tumblr.com/post/8971457949
 
  =:
 - <h3>ニコニコ動画</h3>:=
