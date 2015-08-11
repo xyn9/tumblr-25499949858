@@ -5,9 +5,9 @@ title: index
 group: navigation
 category: index
 description: http://xyn9.tumblr.com/post/25499949858
-mtitle: “日米／沖縄／原発”の項目に在沖米軍基地に関する記事へのリンク＋“関連・その他”に台湾サイトの※紹介ブログ引用メモ片
+mtitle: “第2次安倍政権”の項目に小林よしのり氏＠日本外国特派員協会(FCCJ)会見ニコニコ動画コメントへのリンク
 mdescription: 
-date: 2015-07-22 16:06:37
+date: 2015-08-12 07:47:45
 ---
 {% include JB/setup %}
 
@@ -157,6 +157,7 @@ h2. %(title)第2次安倍政権%
 ** ユーザーコメントより
 *** "2-eGNFi_omsiNJle_ie3KmVmaFQ":http://www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ ("@2014-03-26 03:26:09":http://megalodon.jp/2014-0326-0326-09/www.nicozon.net/msg/sm23175200/2-eGNFi_omsiNJle_ie3KmVmaFQ )
 * "「イスラム国」日本人人質事件のミカタ":http://nicoco.net/sm25415259 ("@2015-01-24 23:11:03":http://megalodon.jp/2015-0124-2311-03/nicoco.net/sm25415259 )	[<a href="data/sm25415259" name="2015-01-24-2311">data</a>]
+* "【保守】　漫画家　小林よしのり　（外国特派員協会　2015年8月10日）":http://nicoco.net/sm26905791 ("@2015-08-12 07:47:45":http://megalodon.jp/2015-0812-0747-45/nicoco.net/sm26905791 )	[<a href="data/sm26905791" name="2015-08-12-0747">data</a>]
 
  =:
 - <h3>YouTube</h3>:=

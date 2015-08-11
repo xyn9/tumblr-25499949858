@@ -1,0 +1,13 @@
+---
+group: history
+category: index
+date: 2015-08-12 07:47:45
+link: ./#2015-08-12-0747
+mdate: 2015-08-12 07:47:45
+style: diary
+title: “第2次安倍政権”の項目に小林よしのり氏＠日本外国特派員協会(FCCJ)会見ニコニコ動画コメントへのリンク
+layout: redirect
+redirect:
+  url: ./#2015-08-12-0747
+  delay: 0
+---
