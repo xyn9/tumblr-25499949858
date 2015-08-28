@@ -4,5 +4,17 @@ title : 履歴
 group: navigation
 ---
 {% include JB/setup %}
-{% assign posts_collate = site.posts %}
-{% include custom/posts_collate_history %}
+
+
+
+
+
+<dl compact>
+{% for post in site.posts  %}
+  {% if post.group == "history" and post.title != null %}
+    <dt><span class="timestamp">{{ post.date | date: site.theme.date_format }}</span> <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a></dt>
+    {% if post.description %}<dd>{{ post.description }}</dd>{% endif %}
+  {% endif %}
+{% endfor %}
+</dl>
+{% assign group = nil %}
